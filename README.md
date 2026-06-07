@@ -1,6 +1,8 @@
 # 💪 Fitness Buddy - Your AI Fitness Coach
 
 **Problem Statement No.13** - Fitness Buddy
+**Submitted by:** Janardhan  
+**Date:** June 2026
 Project Details
 Internship: Edunet Foundation IBM 4-Week Internship
 Technology: LangFlow + IBM watsonx.ai + Meta Llama on IBM Cloud
