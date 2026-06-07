@@ -29,11 +29,11 @@ An intelligent conversational fitness assistant built with **Langflow** + **IBM 
    ```bash
    pip install langflow -U
 2.Run Langflow:Bashlangflow run
-3.Open your browser and go to: http://localhost:7860
-4.Click Import button → Upload fitness_buddy_flow.json
-5.Open the IBM watsonx.ai component and add your:
-IBM API Key
-Project ID
+ 3.Open your browser and go to: http://localhost:7860
+ 4.Click Import button → Upload fitness_buddy_flow.json
+ 5.Open the IBM watsonx.ai component and add your:
+ IBM API Key
+ Project ID
 
 
 📁 Project Structure
